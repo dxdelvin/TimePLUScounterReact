@@ -1,5 +1,5 @@
 
-```markdown
+
 # React Number Counter
 
 A simple React app for practicing state management. The app allows you to increase and decrease a number with a time clock displayed above.
